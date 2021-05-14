@@ -17,6 +17,7 @@ End Code
             for enjoyable, agile development.
         </p>
         <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+        <h3>This Version 1.0 <h3>
     </div>
     <div class="col-md-4">
         <h2>Get more libraries</h2>
